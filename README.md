@@ -1,2 +1,2 @@
-#respomsive_poster_layout
+#responsive_poster_layout
 test
